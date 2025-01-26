@@ -1,0 +1,11 @@
+.custom-toast {
+  margin-top: 10px;
+  background-color: rgb(247, 231, 11);
+  color: red;
+  top: -10;
+  right: 490px;
+}
+
+#resim {
+  background-color: black;
+}
